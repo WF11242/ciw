@@ -14,11 +14,6 @@
   document.getElementById("vLink2").setAttribute("href", CSSvalidLinkStr);
 }
 window.onload = init;
-        const canvas = document.querySelector("canvas");
-        const ctx = canvas.getContext("2d");
-        ctx.fillStyle = "red";
-        // Add a rectangle at (10, 10) with size 100x100 pixels
-        ctx.fillRect(10, 10, 100, 100);
 
     </script>
 </head>
@@ -43,7 +38,7 @@ window.onload = init;
         <video height="210" controls="controls">
             <source src="images/donut_video.mp4" type="video/mp4">
         </video>
-        <canvas width="120" height="120">
+        <canvas id="myCanvas" width="120" height="120" style="border:1px solid #000000;">
         </canvas>
     </article>
     <footer>
