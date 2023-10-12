@@ -12,5 +12,6 @@ body {
 h1 {
     color: #40B9BF;
     text-shadow: 0px 0px 10px #7f03fc;
+    padding: 10px 10px 10px;
 }
 
