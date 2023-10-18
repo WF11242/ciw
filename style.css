@@ -1,3 +1,6 @@
+a{
+    color:white;
+}
 img {
     border-radius: 50%;
     width: 20%;
@@ -20,7 +23,7 @@ h1 {
     text-align: center;
 }
 nav{
-    background: rgba(108, 164, 166, .6);
+    background: rgba(80, 93, 112, .6);
     font-weight: bold;
     float: right;
     height: 420px;
