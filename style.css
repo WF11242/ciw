@@ -19,4 +19,12 @@ h1 {
     border: 2px dotted black;
     text-align: center;
 }
+nav{
+    background: rgba(108, 164, 166, .6);
+    font-weight: bold;
+    float: right;
+    height: 420px;
+    padding-right: 24px;
+    margin-right: 10px;
+}
 
