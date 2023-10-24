@@ -36,5 +36,8 @@ section{
     background-repeat: no-repeat;
     background-size: contain;
 }
+.content{
+    float: right;
+}
 
 
