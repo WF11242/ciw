@@ -35,7 +35,8 @@ section{
     background-image: url("images/colorwheel.png");
     background-repeat: no-repeat;
     background-size: contain;
-    float: right;
+    position: absolute;
+    right: 5%; 
 }
 
 
