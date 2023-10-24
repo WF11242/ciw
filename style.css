@@ -33,7 +33,7 @@ nav{
 section{
     background-image: url("images/colorwheel.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 
