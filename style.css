@@ -35,7 +35,7 @@ section{
     background-image: url("images/colorwheel.png");
     background-repeat: no-repeat;
     background-size: contain;
-    background-attatchment: fixed;
+    background-attachment: fixed;
     background-position: right;
 }
 
