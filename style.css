@@ -30,4 +30,10 @@ nav{
     padding-right: 24px;
     margin-right: 10px;
 }
+section{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlFnU5phwdiHfEY-M4ydOw6nmi92PloQEZEfSKdpdXM4zveXFZTR-ArB5dW6GScrwnPrw:https://upload.wikimedia.org/wikipedia/commons/7/71/Gradient_color_wheel.png&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
