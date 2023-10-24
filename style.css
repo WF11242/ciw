@@ -29,6 +29,7 @@ nav{
     height: 420px;
     padding-right: 24px;
     margin-right: 10px;
+    opacity: 0.8;
 }
 section{
     background-image: url("images/colorwheel.png");
