@@ -27,7 +27,11 @@ nav{
     font-weight: bold;
     float: right;
     height: 420px;
+    padding-right: 24px;
+    margin-right: 10px;
     opacity: 0.8;
+}
+.navlinks{
     display: block;
     border: 2px solid #a1a1a1;
     padding: 2px 5px;
