@@ -1,3 +1,7 @@
+@font-face {
+    font-family: oregonfont;
+    src: url("Oregon_LDO_Book.ttf");
+}
 a{
     color:white;
 }
