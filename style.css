@@ -53,6 +53,7 @@ section{
 }
 #growing{
     transition: font-size 3s, color 2s;
+    font-family: inherit
 }
 
 
