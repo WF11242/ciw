@@ -1,6 +1,6 @@
 @font-face {
     font-family: oregonfont;
-    src: url("Oregon_LDO_Book.ttf");
+    src: url("Oregon_LDO_Book.ttf") format("opentype");
 }
 a{
     color:white;
@@ -11,8 +11,7 @@ img {
     height: 15%;
 }
 body {
-    font-family: oregonfont;
-    font-family: sans-serif;
+    font-family: oregonfont, sans-serif;
     font-size: 80%;
     background-color: #9eaebc;
     color: #6B594A;
