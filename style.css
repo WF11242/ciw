@@ -55,5 +55,12 @@ section{
     transition: font-size 3s, color 2s;
     font-family: inherit;
 }
-
+#img-rotate {
+    transform: rotate(345deg);
+}
+#video-rotate {
+    -ms-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
 
