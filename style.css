@@ -59,8 +59,6 @@ section{
     transform: rotate(345deg);
 }
 #video-rotate {
-    -ms-transform: rotate(15deg);
-    -webkit-transform: rotate(15deg);
     transform: rotate(15deg);
 }
 
