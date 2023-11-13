@@ -5,6 +5,12 @@
 a{
     color:white;
 }
+p{
+    transition: width 3s, transform 3s;
+}
+p:hover {
+    width: 250px;
+}
 img {
     border-radius: 50%;
     width: 20%;
