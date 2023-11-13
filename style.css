@@ -2,6 +2,29 @@
     font-family: oregonfont;
     src: url("Oregon_LDO_Book.ttf") format("opentype");
 }
+@keyframes logoanimation {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+    50% {
+        left: 200px;
+        top: 0px;
+    }
+    100% {
+        left: 0px;
+        top: 0px;
+    }
+}
+#animation {
+    position: relative;
+    animation-name: logoanimation;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-play-state: running;
+}
 a{
     color:white;
 }
